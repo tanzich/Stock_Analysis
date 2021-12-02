@@ -6,7 +6,7 @@
 The purpose of this project is to understand and analyse the performance of certain stocks in the year 2017 and 2018 and determine if they are worth the investment. One essential part for this project is to refactor the existing code such that we can loop through more than just a handful of stock data efficiently in order to understand the performance. 
 
 ### Background information
-The goal of this project is to get the total daily volume and the return of 12 different stocks in the year 2017 and 2018 efficiently. Based on the information for these 12 stock's performance in 2018 and 2017 we can determine which stock is a good stock to invest in.
+The goal of this project is to get the total daily volume and the return of 12 different stocks in the year 2017 and 2018 efficiently. Here, return column tells us how much an investment grew or shrunk by the end of the year. Based on the information for these 12 stock's performance in 2018 and 2017 we can determine which stock is a good stock to invest in.
 
 ## Result
 
