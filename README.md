@@ -11,7 +11,7 @@ The goal of this project is to get the total daily volume and the return of 12 d
 ## Result
 
 ### A comparison of stock performance between 2017 and 2018
-Comparing all the stocks side by side between 2017 and 2018 it is cear that ENPH abd RUN are good stocks to invest in. 
+Comparing all the stocks side by side between 2017 and 2018 it is clear that ENPH and RUN are good stocks to invest in. 
 
 Stock Performance for the year 2017:
 
